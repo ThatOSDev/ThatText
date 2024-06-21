@@ -9,6 +9,13 @@ This example shows how to use nothing but [stb_truetype](http://nothings.org) al
 [GLFW3](https://www.glfw.org) is used to make the window. Nothing is dependant on GLFW3 library. So SDL2 could be used instead, and just replace GLFW3 functions if desired.  
   
   
+# ** TODO **  
+
+	* Multi-Font  
+	* Multi-Font-Size per font  
+	* Multi-Font-languages  
+  
+  
 ## Screenshot  
 ![screenshot example](/screenshots/screenshot.png)
   
