@@ -1,5 +1,7 @@
-# ThatText  
+# ThatText  (PROJECT CANCELED)
 An stb_truetype OpenGL 4.3 text-rendering demonstration. NO FREETYPE LIBRARY REQUIRED !  
+  
+## ANNOUNCEMENT 6-25-2024 : Project Canceled. I decided to go in a different direction.  
   
 Tested with GCC 13.2 (MinGW x64) on windows.  
   
@@ -25,6 +27,8 @@ NOTE : MAKE SURE TO DEFINE THIS :
 _GLFW_WIN32
 ```  
 Library to add when on Windows is gdi32 : -lgdi32  
+
+
   
   
 ![Source Files](/screenshots/sourcefiles.png)
